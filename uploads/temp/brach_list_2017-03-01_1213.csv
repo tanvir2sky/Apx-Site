@@ -1,0 +1,11 @@
+"customer id","account number","account type","company name","first name","last name","user name",email,email2,phone,city,state
+2,441234,Cash,"Courier Company 1",ABC,XYZ,abcxyz,xyz@apxintl.co.uk,xyz2@gmail.com,00442081237919,London,London
+3,4412342,Credit,"Natural Herbs",APX,Ops,abcxyz,hsdh@apxintl.co.uk,zackds@apxintl.co.uk,354301069508559,London,London
+4,4001,Credit,"TANGO TRADING",XYZ,"ABC ",TANGO,tangotrading@gmail.com,tangotrading@gmail.com,03338636704,SIALKOT,PUNJAB
+5,4002,Credit,"SELECT COURIER",ABC,XYZ,"SELECT COURIER",mir333888@hotmail.com,INFO@sclectcourier.net,03217132243,SIALKOT,PUNJAB
+6,4003,Credit,"COURIER LINE","MUREED HUSSAIN","HUSSAIN ","COURIER LINE",clxskt@gmail.com,clxskt@gmail.com,0524580626,SIALKOT,PUNJAB
+7,4004,Credit,"EXCELLENT COURIER","MUHAMMAD RASHEED","MUHAMMAD ",RASHEED,rasheed@excellent.com.pk,rasheed@excellent.com.pk," 03216123433",SIALKOT,PUNJAB
+8,4005,Credit,AIRMAX,ZAHID,AIRMAX,ZAHID,airmaxcourier@gmail.com,airmaxcourier@gmail.com,0300-6109948,SIALKOT,PUNJAB
+9,4006,Credit,"SWIFT COURIER",HAMAD,"FAHAD ","SWIFT COURIER",superswiftcourier@gmail.c,superswiftcourier@gmail.c,03338780671,SIALKOT,PUNJAB
+10,4007,Credit,"FAST & FINE",NAEEM,"NAEEM ","FAST & FINE",scadept@fastandfinecargao,scadept@fastandfinecargao,0343-6792221,SIALKOT,PUNJAB
+11,4008,Credit,PDHS,"FAROOQ BUT","FAROOQ BUT ",PDHS,"shahzad_butt32@yahoo.com ","shahzad_butt32@yahoo.com ",0300-9617929,SIALKOT,PUNJAB

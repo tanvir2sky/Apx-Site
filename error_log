@@ -1,0 +1,8 @@
+[02-Oct-2016 06:20:19 UTC] PHP Fatal error:  Can't use function return value in write context in /home/infohowto/public_html/apx-admin/application/views/admins/view_add_admins.php on line 11
+[16-Dec-2016 00:42:57 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/infohowto/public_html/apx-admin/application/controllers/Manageledger.php on line 89
+[16-Dec-2016 00:44:33 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/infohowto/public_html/apx-admin/application/controllers/Manageledger.php on line 90
+[16-Dec-2016 00:46:09 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/infohowto/public_html/apx-admin/application/controllers/Manageledger.php on line 90
+[16-Dec-2016 00:46:10 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/infohowto/public_html/apx-admin/application/controllers/Manageledger.php on line 90
+[16-Dec-2016 00:47:59 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/infohowto/public_html/apx-admin/application/controllers/Manageledger.php on line 90
+[16-Dec-2016 00:48:00 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/infohowto/public_html/apx-admin/application/controllers/Manageledger.php on line 90
+[16-Dec-2016 00:49:14 UTC] PHP Parse error:  syntax error, unexpected ''Total Balance'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/infohowto/public_html/apx-admin/application/controllers/Manageledger.php on line 99

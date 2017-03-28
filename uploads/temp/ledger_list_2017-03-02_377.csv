@@ -1,0 +1,5 @@
+"Sr no",Date,"AWB number","Account number","Payment Type",Description,Country,Service,"Ship type",Weight,PCs,Debit,Credit,Balance
+1,27-10-2016,YXBHJHJSS,4001,--,--,"United Kingdom","DHL PK DOX","Dox kg",300,24234,300,300,-499
+2,09-11-2016,557787,4001,--,--,Poland,"DHL PK NON DOX","N-DOX kg",2,1,2,2,-499
+3,20-11-2016,wererw,4001,--,--,Belize,"DHL PK DOX","Dox kg",50,324,50,50,-652
+4,13-12-2016,932268,4001,--,--,Afghanistan,"DHL PK NON DOX","N-DOX kg",6.50,01,6.50,6.50,-5691

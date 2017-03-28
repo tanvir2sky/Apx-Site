@@ -1,0 +1,4 @@
+branch_id,code,name,manager,contactNu1,contactNu2,contactNu3,mangerContactNu,addressLine1,addressLine2,countryCode,state,city,"zip code",created_date,modified_date,modified_by,status
+1,2312,"Information technology",saeed,923874987,3289127398,398127398712983,,"jkchkjc dcdsjkhcfk dsdfs","ashdhaskj dasd asdhash d",PK,ICT,Islamabad,44000,"2016-10-05 10:30:00",6,"2016-10-05 22:00:12",6,-1
+5,0044,"Head Office",Zack,00442081237919,00442081237919,00442081237919,00447991237919,"28 sheraton busness Centre",Essex,PK,London,London,"UB2 4JR","2016-10-06 06:40:00",6,"2016-10-06 15:08:56",6,-1
+6,44123,"APX UK","Zack Fiturber",00442081237919,00442081237919,00442081237919,00447991237919,"28 sheraton busness Centre",Essex,GB,London,London,"UB2 4JR","2016-10-17 15:53:04",6,"0000-00-00 00:00:00",0,-1

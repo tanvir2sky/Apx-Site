@@ -1,0 +1,9 @@
+Air Way Bill Number,Tracking Number,Account Number,Account Holder Name,Shiper Name,Address Line 1,Address Line 2,City ,State,Country,Zip,Phone,Shiper Reference,Shipment Content,Shipment Value,Reciever Company,Receiver Name,Receiver Address Line 1,Receiver Address Line 2,Receiver City,Receiver State,Price list Service,Zone  Country,Reciever Zip,Reciever Phone,Reciever Mobile,Ship Type,Weight,PCS,Total paid,Shipment Instruction,Status
+DSFSAFS,23,12345678,smxoft,wq33 wqeqw,adasdas,123,12312,1231,Falkland Islands,12312,213,3121,dqwmde,213,Rehman Travel,jkkjkj,jk,kjh,jkkj,jjj,DHLPKDOX,GB,dasd,asda,,Dox,55,,45,sjk,Delivered
+DSFSAFT,23,12345678,smxoft,wq33 wqeqw,adasdas,123,12312,1231,Falkland Islands,12312,213,3121,dqwmde,213,Rehman Travel,jkkjkj,jk,kjh,jkkj,jjj,DHLPKDOX,GB,dasd,asda,,Dox,55,,45,sjk,Delivered
+YXBHJHU,23,12345678,smxoft,wq33 wqeqw,adasdas,123,12312,1231,Falkland Islands,12312,213,3121,dqwmde,213,Rehman Travel,jkkjkj,jk,kjh,jkkj,jjj,DHLPKDOX,GB,dasd,asda,,Dox,55,,45,sjk,Problem
+DSFSAFV,23,12345678,smxoft,wq33 wqeqw,adasdas,123,12312,1231,Falkland Islands,12312,213,3121,dqwmde,213,Rehman Travel,jkkjkj,jk,kjh,jkkj,jjj,DHLPKDOX,GB,dasd,asda,,Dox,55,,45,sjk,Problem
+DSFSAFW,23,12345678,smxoft,wq33 wqeqw,adasdas,123,12312,1231,Falkland Islands,12312,213,3121,dqwmde,213,Rehman Travel,jkkjkj,jk,kjh,jkkj,jjj,DHLPKDOX,GB,dasd,asda,,Dox,55,,45,sjk,Intransit
+DSFSAFX,23,12345678,smxoft,wq33 wqeqw,adasdas,123,12312,1231,Falkland Islands,12312,213,3121,dqwmde,213,Rehman Travel,jkkjkj,jk,kjh,jkkj,jjj,DHLPKDOX,GB,dasd,asda,,Dox,55,,45,sjk,Partial
+DSFSAFY,23,12345678,smxoft,wq33 wqeqw,adasdas,123,12312,1231,Falkland Islands,12312,213,3121,dqwmde,213,Rehman Travel,jkkjkj,jk,kjh,jkkj,jjj,DHLPKDOX,GB,dasd,asda,,Dox,55,,45,sjk,Delivered
+DSFSAFZ,23,12345678,smxoft,wq33 wqeqw,adasdas,123,12312,1231,Falkland Islands,12312,213,3121,dqwmde,213,Rehman Travel,jkkjkj,jk,kjh,jkkj,jjj,DHLPKDOX,GB,dasd,asda,,Dox,55,,45,sjk,Lost
